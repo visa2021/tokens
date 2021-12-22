@@ -1,11 +1,11 @@
 {
-"name": "Brothers wine"，
- "website"： "https://bscscan.com/token/0x4D18f01C2E92CAf08E1bdBfDaA3437d6C715c68b"，
- "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",  
- "explorer": "https://bscscan.com/token/0x4D18f01C2E92CAf08E1bdBfDaA3437d6C715c68b"，
- "type": "BEP20"，
- "symbol": "ANHEM"， 
- "decimals":18，
- "status": "active"，
+"name": "Brothers wine"
+ "website"： "http://www.anhem.top"
+ "description": "brothers wine -www.anhem.top"
+ "explorer": "https://bscscan.com/token/0x4D18f01C2E92CAf08E1bdBfDaA3437d6C715c68b"
+ "type": "BEP20"
+ "symbol": "ANHEM" 
+ "decimals":18
+ "status": "active"
 "id": "0x4D18f01C2E92CAf08E1bdBfDaA3437d6C715c68b"
  }
